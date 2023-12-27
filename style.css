@@ -1,0 +1,12 @@
+a:hover{
+    background-color:#aaa;
+}
+a:active{
+    background-color:black;
+}
+
+.fa {
+    height:auto;
+    width:auto;
+    margin: 20px;
+  }
